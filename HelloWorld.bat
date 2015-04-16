@@ -1,1 +1,1 @@
-mvn exec:java -Dexec.mainClass="com.microtest.testspark.HelloWorld"
+mvn exec:java -Dexec.mainClass="com.microtest.testconvert.HelloWorld"
